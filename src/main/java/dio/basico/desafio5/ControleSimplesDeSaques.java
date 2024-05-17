@@ -1,4 +1,4 @@
-package dio.desafio5;
+package dio.basico.desafio5;
 import java.util.Scanner;
 
 public class ControleSimplesDeSaques {

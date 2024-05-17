@@ -1,4 +1,4 @@
-package dio.desafio2;
+package dio.basico.desafio2;
 import java.util.Scanner;
 
 public class VerificadorNumeroConta {

@@ -1,4 +1,4 @@
-package dio.desafio3;
+package dio.basico.desafio3;
 
 import java.util.Scanner;
 

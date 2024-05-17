@@ -1,4 +1,4 @@
-package dio.desafio4;
+package dio.basico.desafio4;
 
 import javax.sound.midi.Soundbank;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package dio.desafio1;
+package dio.basico.desafio1;
 
 import java.util.Locale;
 import java.util.Scanner;
